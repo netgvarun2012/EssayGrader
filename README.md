@@ -1,6 +1,6 @@
 ## This is short description about Essay Grader machine learning model!
 
-## Given an Essay of a minimum of 100 words, the model is able to classify the essay into one of the three categories:
+### Given an Essay of a minimum of 100 words, the model is able to classify the essay into one of the three categories:
 
 - Average (B-C)     
 - Excellent (A+)    
