@@ -10,7 +10,7 @@
 ![image](https://user-images.githubusercontent.com/93938450/167906737-8052ee60-1aed-47fa-bb19-9e5ec30c6d11.png)
 
 
-See the model in action at https://admissionessay.us/
+**See the model in action at** https://admissionessay.us/
 
 
 ### Below is the list of essay grader API's features on which score is calculated:
