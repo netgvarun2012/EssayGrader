@@ -1,4 +1,12 @@
-## This is short description about Proof Reading Essay Grader API!
+## This is short description about Essay Grader machine learning model!
+
+## Given an Essay of a minimum of 100 words, the model is able to classify the essay into one of the three categories:
+
+- Average (B-C)     
+- Excellent (A+)    
+- Bad (D-F)          
+
+
 
 ### Below is the list of essay grader API's features on which score is calculated:
 
